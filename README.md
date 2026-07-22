@@ -36,7 +36,7 @@ You need to have these follow tools installed
    ```
 3. Insert the .env file in the server directory 
 
-### Auto install
+### Auto install for Debian-based systems (Ubuntu, Debian, Mint, etc)
 You can automatically install prerequisites and npm packages by running the `setup.sh` script using
 
 ``` 
